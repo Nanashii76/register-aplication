@@ -67,13 +67,19 @@ Dessa forma a aplicação estará totalmente funcional, segue algumas screenshot
 
 #### Home page
 
-![home-page-img] ()
+![home-page-img](/mdpictures/home.png)
 
 #### About page
 
+![about-page-img](/mdpictures/about.png)
+
 #### Contact page
 
+![contact-page-img](/mdpictures/contact.png)
+
 #### Register page
+
+![register-page-img](/mdpictures/register.png)
 
 
 
