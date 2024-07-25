@@ -2,7 +2,7 @@
 
 Aplicação Simples feita com Nextjs e Nestjs, separada em duas pastas contendo o frontend e o backend da página. A aplicação conta com um sistema simples de registro, requisição e registro no banco de dados suportados por uma imagem dockerizada.
 
-## Como utilizar
+# Como utilizar
 
 ## Pré-requisitos
 
@@ -15,7 +15,7 @@ Aplicação Simples feita com Nextjs e Nestjs, separada em duas pastas contendo 
 Para rodar localmente, primeiro, clone o repositório na sua máquina utilizando
 
 ```
-git clone <link do rep>
+git clone https://github.com/Nanashii76/register-aplication
 ```
 
 Na pasta de backend, utilize
