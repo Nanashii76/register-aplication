@@ -2,7 +2,7 @@
 
 Aplicação Simples feita com Nextjs e Nestjs, separada em duas pastas contendo o frontend e o backend da página. A aplicação conta com um sistema simples de registro, requisição e registro no banco de dados suportados por uma imagem dockerizada.
 
-## Como utilizar
+# Como utilizar
 
 ## Pré-requisitos
 
@@ -15,7 +15,7 @@ Aplicação Simples feita com Nextjs e Nestjs, separada em duas pastas contendo 
 Para rodar localmente, primeiro, clone o repositório na sua máquina utilizando
 
 ```
-git clone <link do rep>
+git clone https://github.com/Nanashii76/register-aplication
 ```
 
 Na pasta de backend, utilize
@@ -59,8 +59,8 @@ yarn dev
 O servidor backend está configurada para rodar porta 3000, enquanto a aplicação roda na porta 3001, para acessar, basta em seu navegador, escrever na barra de url
 
 ```
-# frontend: http:localhost:3001
-# backend: http:localhost:3000
+# frontend: http://localhost:3001
+# backend: http://localhost:3000
 ```
 
 Dessa forma a aplicação estará totalmente funcional, segue algumas screenshots do projeto
