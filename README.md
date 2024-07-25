@@ -59,8 +59,8 @@ yarn dev
 O servidor backend está configurada para rodar porta 3000, enquanto a aplicação roda na porta 3001, para acessar, basta em seu navegador, escrever na barra de url
 
 ```
-# frontend: http:localhost:3001
-# backend: http:localhost:3000
+# frontend: http://localhost:3001
+# backend: http://localhost:3000
 ```
 
 Dessa forma a aplicação estará totalmente funcional, segue algumas screenshots do projeto
